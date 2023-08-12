@@ -1,8 +1,3 @@
-Absolutely, here's the content in markdown format that you can directly copy and paste into your README.md file:
-
-markdown
-Copy code
-
 # Pagination Component
 
 A React component for creating a paginated navigation UI.
